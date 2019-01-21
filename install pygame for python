@@ -1,0 +1,7 @@
+
+
+#install pygame
+pip install pygame
+
+#install pygame zero
+pip install pgzero
